@@ -1,66 +1,66 @@
 # A list is a collection which is ordered and changeable. Allows duplicate members.
 
 """ Create """
-list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+a_list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
 
 """ Access """
 # Specific item
-list[2]
+a_list[2]
 
 # Last item
-list[-1]
+a_list[-1]
 
 # Range
-list[2:5]
+a_list[2:5]
 
 # In the list
-if 'cherry' in list :
+if 'cherry' in a_list :
 	print('yes')
 
 
 """ Change """
-list[1] = 'raspberry'
-list[3:4] = ["blackcurrant", "watermelon"]
+a_list[1] = 'raspberry'
+a_list[3:4] = ["blackcurrant", "watermelon"]
 
 """ Insert """
-list.insert(2, 'watermelon') # insert in indelist 2
+a_list.insert(2, 'watermelon') # insert in indelist 2
 
-list.append('bueberry')
+a_list.append('bueberry')
 
 tropical = ["mango", "pineapple", "papaya"]
-list.extend(tropical)
+a_list.extend(tropical)
 
 
 """ Remove """
-list.remove('kiwi') # remove item
+a_list.remove('kiwi') # remove item
 
-list.pop(1) # remove indelist 1
+a_list.pop(1) # remove indelist 1
 
-del list[0] # remove indelist 0
+del a_list[0] # remove indelist 0
 
-del list # delete the list
+del a_list # delete the list
 
 
 """ Iterate """
-list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+a_list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
-for l in list :
+for l in a_list :
 	print(l)
 
-for i in range(len(list)):
-	print(list[i])
+for i in range(len(a_list)):
+	print(a_list[i])
 
-[print(x) for x in list] 
+[print(x) for x in a_list] 
 
 
 """ Sort """
-list.sort()
-list.sort(reverse = True)
+a_list.sort()
+a_list.sort(reverse = True)
 
 
 """ Copy """
-newlist = list.copy()
+newlist = a_list.copy()
 
 
 """ Join """
