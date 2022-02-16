@@ -3,18 +3,16 @@
 """ Create """
 list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
-print(list)
-
 
 """ Access """
 # Specific item
-print(list[2])
+list[2]
 
 # Last item
-print(list[-1])
+list[-1]
 
 # Range
-print(list[2:5])
+list[2:5]
 
 # In the list
 if 'cherry' in list :
