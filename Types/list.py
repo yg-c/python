@@ -5,17 +5,13 @@ a_list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
 
 """ Access """
-# Specific item
-a_list[2]
+a_list[2] # Specific item
 
-# Last item
-a_list[-1]
+a_list[-1] # Last item
 
-# Range
-a_list[2:5]
+a_list[2:5] # Range
 
-# In the list
-if 'cherry' in a_list :
+if 'cherry' in a_list : # In the list
 	print('yes')
 
 
