@@ -1,6 +1,6 @@
 # A list is a collection which is ordered and changeable. Allows duplicate members.
 
-# Create
+""" Create """
 list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
 print(list)
