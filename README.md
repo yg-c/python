@@ -14,7 +14,11 @@
 - [Set](https://github.com/yg-c/python/blob/main/Types/set.py)
 
 ## Shortcuts
-
+- [Comprehensions](https://github.com/yg-c/python/blob/main/Shortcuts/comprehensions.py)
+- [f String](https://github.com/yg-c/python/blob/main/Shortcuts/f_string.py)
+- [Swap variables](https://github.com/yg-c/python/blob/main/Shortcuts/swap_variable.py)
+- [Unpacking collection](https://github.com/yg-c/python/blob/main/Shortcuts/unpacking.py)
+- [Zip](https://github.com/yg-c/python/blob/main/Shortcuts/zip.py)
 
 ## Object-oriented programming
 - [OOP base](https://github.com/yg-c/python/blob/main/oop.py)
