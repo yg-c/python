@@ -13,6 +13,8 @@
 ### Set
 - [Set](https://github.com/yg-c/python/blob/main/Types/set.py)
 
+## Shortcuts
+
 
 ## Object-oriented programming
 - [OOP base](https://github.com/yg-c/python/blob/main/oop.py)
