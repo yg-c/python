@@ -22,3 +22,8 @@
 
 ## Pandas
 - [Create](https://github.com/yg-c/python/blob/main/Pandas/create_dataframe.py)
+
+## Other
+- [args kwargs](https://github.com/yg-c/python/blob/main/args_kwargs.py)
+- [Asyncio](https://github.com/yg-c/python/blob/main/asyncio.py)
+- [Lamda function](https://github.com/yg-c/python/blob/main/lambda_fonction.py)
