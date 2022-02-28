@@ -21,7 +21,8 @@
 - [Decorators](https://github.com/yg-c/python/blob/main/decorators.py)
 
 ## Recursion
-- [Fibonacci and Fibonacci memorization](https://github.com/yg-c/python/blob/main/Recursion/fibonacci.py)
+- [Fibonacci](https://github.com/yg-c/python/blob/main/Recursion/fibonacci.py)
+- [Fibonacci memorization](https://github.com/yg-c/python/blob/main/Recursion/fibonacci_memorization.py)
 - [Sudoku backtracking](https://github.com/yg-c/python/blob/main/Recursion/sudoku_solver.py)
 
 ## Pandas
