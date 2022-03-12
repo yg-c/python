@@ -30,7 +30,7 @@
 - [Create](https://github.com/yg-c/python/blob/main/Pandas/create_dataframe.py)
 
 ## Other
-- [args kwargs](https://github.com/yg-c/python/blob/main/Other/args_kwargs.py)
+- [*args **kwargs](https://github.com/yg-c/python/blob/main/Other/args_kwargs.py)
 - [Asyncio](https://github.com/yg-c/python/blob/main/Other/asyncio.py)
 - [Lamda function](https://github.com/yg-c/python/blob/main/Other/lambda_fonction.py)
 - [Generator](https://github.com/yg-c/python/blob/main/Other/generators.py)
