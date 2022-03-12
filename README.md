@@ -15,10 +15,11 @@
 - [Zip](https://github.com/yg-c/python/blob/main/Shortcuts/zip.py)
 
 ## Object-oriented programming
-- [OOP base](https://github.com/yg-c/python/blob/main/oop.py)
-- [Inheritance](https://github.com/yg-c/python/blob/main/inheritance.py)
-- [Static method](https://github.com/yg-c/python/blob/main/static_method.py)
-- [Decorators](https://github.com/yg-c/python/blob/main/decorators.py)
+- [OOP base](https://github.com/yg-c/python/blob/main/OOP/oop_base.py)
+- [Inheritance](https://github.com/yg-c/python/blob/main/OOP/inheritance.py)
+- [Static method](https://github.com/yg-c/python/blob/main/OOP/static_method.py)
+- [Decorators](https://github.com/yg-c/python/blob/main/OOP/decorators.py)
+- [Dunder methods](https://github.com/yg-c/python/blob/main/OOP/dunder_methods.py)
 
 ## Recursion
 - [Fibonacci](https://github.com/yg-c/python/blob/main/Recursion/fibonacci.py)
@@ -32,7 +33,6 @@
 - [args kwargs](https://github.com/yg-c/python/blob/main/args_kwargs.py)
 - [Asyncio](https://github.com/yg-c/python/blob/main/asyncio.py)
 - [Lamda function](https://github.com/yg-c/python/blob/main/lambda_fonction.py)
-- [Dunder methods](https://github.com/yg-c/python/blob/main/dunder_methods.py)
 - [Generator](https://github.com/yg-c/python/blob/main/generators.py)
 - [Multithreading](https://github.com/yg-c/python/blob/main/multithreading.py)
 
