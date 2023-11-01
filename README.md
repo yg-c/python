@@ -19,6 +19,7 @@
 - [Inheritance](https://github.com/yg-c/python/blob/main/OOP/inheritance.py)
 - [Static method](https://github.com/yg-c/python/blob/main/OOP/static_method.py)
 - [Decorators](https://github.com/yg-c/python/blob/main/OOP/decorators.py)
+- [Decorators 2](https://github.com/yg-c/python/blob/main/OOP/decorators_2.py)
 - [Dunder methods](https://github.com/yg-c/python/blob/main/OOP/dunder_methods.py)
 
 ## Recursion
