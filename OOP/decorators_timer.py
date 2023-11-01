@@ -1,7 +1,18 @@
 from datetime import datetime
 import functools
+import logging
+""" decorators """
 
-""" decorator """
+def function_log(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        try:
+            function_result = func(*args, **kwargs)
+            return function_result
+        except Exception as e:
+            print(e)
+
+    return wrapper
 
 
 def timer(func):
@@ -19,11 +30,17 @@ def timer(func):
     return wrapper
 
 
-@timer
+@function_log
 def add_5(number: int) -> int:
     result = number + 5
     return result
 
+@function_log
+@timer
+def divide(numerator: int, denominator: int) -> float:
+    result = numerator / denominator
+    return result
 
-result = add_5(4)
+
+result = divide(numerator=8, denominator=2)
 print(result)
