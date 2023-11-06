@@ -1,7 +1,7 @@
 import pandas as pd
 import pandera as pa
 from pandera.typing import DataFrame
-import dataframe_schemas as ds
+import dataframe_schema_class as ds
 
 
 # Extrait des données
